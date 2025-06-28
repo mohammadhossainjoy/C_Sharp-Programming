@@ -19,6 +19,10 @@ namespace DataTypeExample
             Console.WriteLine("Grade:" + grade);
             Console.WriteLine("Name:" + name);
 
+            age = 26;
+            Console.WriteLine("Update age:" + age);
+
+
         }
     }
 }
