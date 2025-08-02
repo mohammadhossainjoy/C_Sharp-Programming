@@ -1,4 +1,4 @@
-﻿namespace OOPexample
+﻿namespace ClassandObject
 {
     class Program
     {
